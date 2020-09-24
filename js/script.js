@@ -1,2 +1,3 @@
-const c = 100;
-const b = <> => {}; 
+Headers 
+const c = 50;
+const myFunc = () => {}; 
