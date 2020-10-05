@@ -1,3 +1,1 @@
-Headers 
-const c = 50;
-const myFunc = () => {}; 
+const b = "Hi there";
