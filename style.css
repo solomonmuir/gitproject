@@ -1,4 +1,4 @@
-body { 
+body {
     background-color: red
 }
 
@@ -6,4 +6,7 @@ hl {color: green}
 
 p {color:blue}
 
- 
+ form {
+   margin: 24px;
+   padding: 36px;
+ }
